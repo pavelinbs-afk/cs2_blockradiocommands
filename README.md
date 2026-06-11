@@ -2,4 +2,6 @@
 
 A CSSharp plugin to block all radio commands.
 
-Known bug: player_ping doesn't seem to get hooked for some reason
+**Version 0.9.1**
+
+- Fixed: `player_ping` was not being hooked correctly (previously listed as a known bug).
